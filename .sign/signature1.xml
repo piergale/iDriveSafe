@@ -1,0 +1,576 @@
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#" Id="DistributorSignature">
+<SignedInfo>
+<CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"></CanonicalizationMethod>
+<SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256"></SignatureMethod>
+<Reference URI="README.md">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>UsVndYo6uwmRu4t0UMGKFK7NYocpKrCRJ2K3p4WZhEs=</DigestValue>
+</Reference>
+<Reference URI="author-signature.xml">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>mTBHbMI6rLmwKrfAnGpcVsdAQwz982/1n1ZCQi2xSek=</DigestValue>
+</Reference>
+<Reference URI="cars.html">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>MTzjChSYnHiol/HcxenUcINVuJeFlG0W0Ek0vlPwlwc=</DigestValue>
+</Reference>
+<Reference URI="cbdnav.html">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>jVNKPfPGtvO9ajP4NZS9i2HhpWlGkLE5HBNqMFUEZZo=</DigestValue>
+</Reference>
+<Reference URI="config.xml">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>tkDsGSb+vXgqBWMA/YUeQO/hMfR8zYPsF1ZJLVLn5MA=</DigestValue>
+</Reference>
+<Reference URI="home.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>xwfcxBQqBCb1xaDHfGuM6gJEPSRKkAcTzEZTdBtkm0E=</DigestValue>
+</Reference>
+<Reference URI="icon.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>1d0oEZHqPn+QzNzGIHwj9ODby6x9ggFs9uOsav6jPNs=</DigestValue>
+</Reference>
+<Reference URI="index.html">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>D1cuxevSsg5fI/+hZ1F8taIsQeFfqxJhCjkPqhjCSYE=</DigestValue>
+</Reference>
+<Reference URI="menu.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>4g+C7n0bmXQs+us8k19ILuIkH/NeDAChURvVGxM4Gkc=</DigestValue>
+</Reference>
+<Reference URI="meteo%2Ffonts%2FFontAwesome.otf">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>bF6pFbVoXc2GXSGLQSIFD+dYcsfskXYsEbaRPukHTrU=</DigestValue>
+</Reference>
+<Reference URI="meteo%2Ffonts%2Ffont-awesome.min.css">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>o/2C+dGr57jynp/IMPw1/PsP18lc2ETiN4YQkc13++c=</DigestValue>
+</Reference>
+<Reference URI="meteo%2Ffonts%2Ffontawesome-webfont.eot">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>OeI3wHQD5i8AvW3fC1nTNJx704aSUKqtw4lBnbaqQO8=</DigestValue>
+</Reference>
+<Reference URI="meteo%2Ffonts%2Ffontawesome-webfont.svg">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>t1H4G0sNt3xJpz/oBnwK7R8eRusS82fuU/5t+LkENwM=</DigestValue>
+</Reference>
+<Reference URI="meteo%2Ffonts%2Ffontawesome-webfont.ttf">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>a0k0itU4htCc5MMvoUbomcgg3j+FqN03BKBiTrO/f6E=</DigestValue>
+</Reference>
+<Reference URI="meteo%2Ffonts%2Ffontawesome-webfont.woff">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>D9KP7Onr1ga4sHFGDr0/wu17x6Zu+RyINPEd+sq0qEk=</DigestValue>
+</Reference>
+<Reference URI="meteo%2Fimages%2Farrow-down.jpg">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>yot7Pj7WK9MbmLqTpQxqsNYP2zlfyBQdBzBKT/ShXyI=</DigestValue>
+</Reference>
+<Reference URI="meteo%2Fimages%2Farrow-down.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>5yIng/IkHLDtYc8cuWGgJnNakAYYn/gX0fRU3TYNvQQ=</DigestValue>
+</Reference>
+<Reference URI="meteo%2Fimages%2Farrow-down%402x.jpg">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>IUIV4KfbyeZRnjWwQQfzIk8ar+JVqhA/IrfeS3yHOQc=</DigestValue>
+</Reference>
+<Reference URI="meteo%2Fimages%2Farrow-down%402x.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>XwvJNuiVxLkXAcbIFpe5iidfJbpCGakPteKL/D4JugA=</DigestValue>
+</Reference>
+<Reference URI="meteo%2Fimages%2Farrow-gray.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>jj9nDyIEkiF3zYaCdnpodrp24cWnfYDI7nvmsuw4m/0=</DigestValue>
+</Reference>
+<Reference URI="meteo%2Fimages%2Farrow-gray%402x.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>b8joS4vIr0AmXj7ZwR9/CDz7LZoJcAxxu+rwABH5DJU=</DigestValue>
+</Reference>
+<Reference URI="meteo%2Fimages%2Farrow-left-white.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>S38HJ7bhK2QoYIXXkzK8fVHIDnSnl4GtXnUS59Br+5Q=</DigestValue>
+</Reference>
+<Reference URI="meteo%2Fimages%2Farrow-left-white%402x.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>IZv5n3ipbX1hbFUiXTotdeKBe7HRGWVNVxlwRElu0+c=</DigestValue>
+</Reference>
+<Reference URI="meteo%2Fimages%2Farrow.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>9PPeslImn2MoiK1sMYsSCKONf8K0a2/wHrl9sjSFzTg=</DigestValue>
+</Reference>
+<Reference URI="meteo%2Fimages%2Farrow%402x.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>o6TDzbBBJmZjHdSHnC6KdN/yMCYPrZr3jDe9RgnenRc=</DigestValue>
+</Reference>
+<Reference URI="meteo%2Fimages%2Fbanner.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>vq1WSxtIFmYzEy0xMw4QE+x5e9On3F90uJOv+BD+jOQ=</DigestValue>
+</Reference>
+<Reference URI="meteo%2Fimages%2Fbanner%402x.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>A4tPVB3vbDwFDYmeVBATDmt34WOmQGOOiEG4bMG/BXs=</DigestValue>
+</Reference>
+<Reference URI="meteo%2Fimages%2Ffeatured-image-1.jpg">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>k6AdSvX5CN9nPk+LKJja4DEeC8q/SrR5TNi+3mbQ7bM=</DigestValue>
+</Reference>
+<Reference URI="meteo%2Fimages%2Ffeatured-image-1%402x.jpg">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>UJLxxrJvPu7KVw+4RZ45JUJqPYeBL9eTwE6hokSyanw=</DigestValue>
+</Reference>
+<Reference URI="meteo%2Fimages%2Ffeatured-image-2.jpg">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>820EDvDY98vgXRtnwnZEPkNdQNhhcnVTz+ar3HjhFmc=</DigestValue>
+</Reference>
+<Reference URI="meteo%2Fimages%2Ffeatured-image-2%402x.jpg">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>8i22ApU4Y9JOTqYl8TSyyZLBMJl383msOSFl4BcHcDA=</DigestValue>
+</Reference>
+<Reference URI="meteo%2Fimages%2Ffeatured-image-3.jpg">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>ct6KARX+Zm5ZkpUjE99RCV3Wd07QGdgDlRaUi/jBVuI=</DigestValue>
+</Reference>
+<Reference URI="meteo%2Fimages%2Ffeatured-image-3%402x.jpg">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>QqtChqHsc//Nef9TqQuvQTJCx6Ly3S96QPtfeglFLH4=</DigestValue>
+</Reference>
+<Reference URI="meteo%2Fimages%2Ficon-compass.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>89IOiT9WXND6RM0qVuXc4rh5Il+FAISNhcIVfwLVD7I=</DigestValue>
+</Reference>
+<Reference URI="meteo%2Fimages%2Ficon-compass%402x.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>b14bIXTyxa6fETvfsnqvCZHkeK9hw+fiihCApLdaIqg=</DigestValue>
+</Reference>
+<Reference URI="meteo%2Fimages%2Ficon-envelope.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>RmdaLeZuN3x+fT6UxA6MDebHsUzHqG+k+lpg174Th+c=</DigestValue>
+</Reference>
+<Reference URI="meteo%2Fimages%2Ficon-envelope%402x.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>bpA23Dcx/stQKXnTNNORVG5vGF1kAGc9bYQdp+3aE40=</DigestValue>
+</Reference>
+<Reference URI="meteo%2Fimages%2Ficon-marker.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>uKV9uChld/+bc1dh3OBiQYtQ74ND6OFwYD1cCgbULoo=</DigestValue>
+</Reference>
+<Reference URI="meteo%2Fimages%2Ficon-marker%402x.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>whRVROLRjmXbup06LMxNL27X3v+pEF3vCs0Xc7pLNz4=</DigestValue>
+</Reference>
+<Reference URI="meteo%2Fimages%2Ficon-phone.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>BTU1j/k68QbtmihKn4I86USoDEskg8kFyKsfsd0Xei0=</DigestValue>
+</Reference>
+<Reference URI="meteo%2Fimages%2Ficon-phone%402x.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>vEIM9QeFLZHuLuuqRZq0vFHbJJIZTmVzoyq14MeOL9g=</DigestValue>
+</Reference>
+<Reference URI="meteo%2Fimages%2Ficon-umberella.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>J6AvNhsJ4uFsBMO9caj0u+RK1tGLMZCq8fQUFKSd1Fc=</DigestValue>
+</Reference>
+<Reference URI="meteo%2Fimages%2Ficon-umberella%402x.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>smBiz5Oeyw8BtlqCrzR2xHn7o1esajS0lmZayx32eIg=</DigestValue>
+</Reference>
+<Reference URI="meteo%2Fimages%2Ficon-wind.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>xBMzcFqR1QUq6I3yVZpkwVFyoJEBTBco1Ad+UAY2E3k=</DigestValue>
+</Reference>
+<Reference URI="meteo%2Fimages%2Ficon-wind%402x.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>7j8z0r3JG4ozZepmEy+vNoCR7gVo9tBo/TRvmeAmOx4=</DigestValue>
+</Reference>
+<Reference URI="meteo%2Fimages%2Ficons%2Ficon-1.svg">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>sRUe8xbvmuxjVzLjqq75by9uJCGQlcW0d6BM/NHRaEU=</DigestValue>
+</Reference>
+<Reference URI="meteo%2Fimages%2Ficons%2Ficon-10.svg">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>39ph9XwF9XrRQYz8xPyeOk8joYBsHRPGg2U2WGNlXWI=</DigestValue>
+</Reference>
+<Reference URI="meteo%2Fimages%2Ficons%2Ficon-11.svg">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>B8+AwVT3AO2mz8mjkU2HK0SRjJUmLGn8oA6Jtp9j5dU=</DigestValue>
+</Reference>
+<Reference URI="meteo%2Fimages%2Ficons%2Ficon-12.svg">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>VYlowJegs4e29q7P2f/zERjoPddAlwplmzsEHbRKmh0=</DigestValue>
+</Reference>
+<Reference URI="meteo%2Fimages%2Ficons%2Ficon-13.svg">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>mJgqh61a+bZpjDmzDUuEZ4bZmX3hJc8VCCW1tsGMBEs=</DigestValue>
+</Reference>
+<Reference URI="meteo%2Fimages%2Ficons%2Ficon-14.svg">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>ae8zsY3mq0hHKEWXC3YtiEo/a1HJAQsX46QFUDIGa+4=</DigestValue>
+</Reference>
+<Reference URI="meteo%2Fimages%2Ficons%2Ficon-2.svg">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>LYXXK03CEBjZIeFcIMF7+APHEWBD/QfGfPFShFEOXm4=</DigestValue>
+</Reference>
+<Reference URI="meteo%2Fimages%2Ficons%2Ficon-3.svg">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>PotZBcIGCwz8EkF7PL5+s/+kpH1MK9mSK5BN5HKmxWI=</DigestValue>
+</Reference>
+<Reference URI="meteo%2Fimages%2Ficons%2Ficon-4.svg">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>TcYW5Q5pdzKNibBmAjIIVy8wOZPxYNK5PDP+2hbMy1Q=</DigestValue>
+</Reference>
+<Reference URI="meteo%2Fimages%2Ficons%2Ficon-5.svg">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>4yYlzD9Hj69T4MopqutRJW+x4gBU/zwafygCOBVsYuc=</DigestValue>
+</Reference>
+<Reference URI="meteo%2Fimages%2Ficons%2Ficon-6.svg">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>iZb0glHcBpqMSUixl4ZIL/1cXJml05sBM5b8Kz+68rU=</DigestValue>
+</Reference>
+<Reference URI="meteo%2Fimages%2Ficons%2Ficon-7.ai">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>BP1QZZpY83UEwGHHrkUpeDodE4qFVrqZJsAGASyc550=</DigestValue>
+</Reference>
+<Reference URI="meteo%2Fimages%2Ficons%2Ficon-7.svg">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>ZkYdZuV8lq58FcvRXANMNgGjHxx+OfwPhM2WDlBY7pM=</DigestValue>
+</Reference>
+<Reference URI="meteo%2Fimages%2Ficons%2Ficon-8.svg">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>0OLx5NLyv29PblDDjG9FGwnfF0HEsLhFFD21V3u9O+4=</DigestValue>
+</Reference>
+<Reference URI="meteo%2Fimages%2Ficons%2Ficon-9.svg">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>hCxjfbMIM9IGulhSNdqlXkIKNHnkQJTwq+NryC16Q3Q=</DigestValue>
+</Reference>
+<Reference URI="meteo%2Fimages%2Flive-camera-1.jpg">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>GrA7IBkoSUmAoYTe3Yk0Aj+KTfpOZrvIwnYKZu9nfbc=</DigestValue>
+</Reference>
+<Reference URI="meteo%2Fimages%2Flive-camera-1%402x.jpg">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>S62ER8SUtvw7VkOPKP0SJZckdszKZf2nb2vlJOozgwI=</DigestValue>
+</Reference>
+<Reference URI="meteo%2Fimages%2Flive-camera-2.jpg">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>7A/Szw809NJk/W/3oahSclKe3BV75NhCM8TYeTih/rU=</DigestValue>
+</Reference>
+<Reference URI="meteo%2Fimages%2Flive-camera-2%402x.jpg">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>JTPjoSD5dvnviT1E2VNluOfknihiiu+AkwtYDcz+BPU=</DigestValue>
+</Reference>
+<Reference URI="meteo%2Fimages%2Flive-camera-3.jpg">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>ZVRiVF+Lu0GCDqyg7w2NGkqMpuyQoKgi9sbrI0Fgj2s=</DigestValue>
+</Reference>
+<Reference URI="meteo%2Fimages%2Flive-camera-3%402x.jpg">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>ilti4m4dmGmfjsPOKvH3lOcj18SeuuGNkLUaanMMT3E=</DigestValue>
+</Reference>
+<Reference URI="meteo%2Fimages%2Flive-camera-4.jpg">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>CL4PtM4rwrifLXDpt/HlHCw+sVW6EXPdbCKMFR0ATjI=</DigestValue>
+</Reference>
+<Reference URI="meteo%2Fimages%2Flive-camera-4%402x.jpg">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>49Q3X8dL7kPc6xlBy2bXHkt3MZW6uP8mjHAzvXgaMIU=</DigestValue>
+</Reference>
+<Reference URI="meteo%2Fimages%2Flive-camera-5.jpg">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>C7lwTcG29sum3YeDZIkhs27tSoW5LphYXgWW6tMsNTY=</DigestValue>
+</Reference>
+<Reference URI="meteo%2Fimages%2Flive-camera-5%402x.jpg">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>XZD3qAPvZWadQFMJB/BMDmW1aSsoke+ywZWgFehevEQ=</DigestValue>
+</Reference>
+<Reference URI="meteo%2Fimages%2Flive-camera-6.jpg">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>GarBFcSE5n+xKyjGzc2p/SXXgeXY5iaqVJuqPVMDWxg=</DigestValue>
+</Reference>
+<Reference URI="meteo%2Fimages%2Flive-camera-6%402x.jpg">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Nbd2cA1Ur+HW78iPaD8vnB0XGzQdo3koN8yoSsV2sGk=</DigestValue>
+</Reference>
+<Reference URI="meteo%2Fimages%2Flive-camera-7.jpg">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>FgEcVLlXNYOsnOIIc+hKlRsY/ohXjZN8JyqB+YmCFa4=</DigestValue>
+</Reference>
+<Reference URI="meteo%2Fimages%2Flive-camera-7%402x.jpg">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>OSzlDZmmTY0urusliYgVx5BRthh3anjwOPINMW11r1I=</DigestValue>
+</Reference>
+<Reference URI="meteo%2Fimages%2Flive-camera-8.jpg">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>sM2KPstQDT4U3/T+cc7GkSGD0XRpbKLljH/C/GN5hG8=</DigestValue>
+</Reference>
+<Reference URI="meteo%2Fimages%2Flive-camera-8%402x.jpg">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>PslBQjRfrG8dm4em0kH0rW+PAreoyJcZigJ4sYCkATk=</DigestValue>
+</Reference>
+<Reference URI="meteo%2Fimages%2Flogo.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>BKg2jkbfacDUWqDSpV3aTwSoP1oPs0xEw7T9fu+uP64=</DigestValue>
+</Reference>
+<Reference URI="meteo%2Fimages%2Flogo%402x.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>w8LtdBFvAgbYUdX7/Wo4fqRT5fDuLnoeSojwDtJuBb8=</DigestValue>
+</Reference>
+<Reference URI="meteo%2Fimages%2Fphoto-1.jpg">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>QqnjvX9+DiQ5Y0Ygwl6/du130t3OTHYRTGfvzzb6jpA=</DigestValue>
+</Reference>
+<Reference URI="meteo%2Fimages%2Fphoto-10.jpg">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>hfVAWRaNAVP2y8hOLOYJ9RDfsbHmFNDa44PiNLMcXOs=</DigestValue>
+</Reference>
+<Reference URI="meteo%2Fimages%2Fphoto-10%402x.jpg">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>nZl+DVtQfPBWp7E5RLGQ39MPN7BGGfLgXxKCWFi5jCY=</DigestValue>
+</Reference>
+<Reference URI="meteo%2Fimages%2Fphoto-1%402x.jpg">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Dj8QFdtTj8d/AhGkuQnWHpJFcmReIc9J50U5uzRmfjQ=</DigestValue>
+</Reference>
+<Reference URI="meteo%2Fimages%2Fphoto-2.jpg">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>UE8yM9pwvW5Un/lqueO3w5EN3wTQpOTy+txN7AxyaxQ=</DigestValue>
+</Reference>
+<Reference URI="meteo%2Fimages%2Fphoto-2%402x.jpg">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>EMyX3W/YPtw7pmsC5XxM8q5iEu/8FIRsPq4ichqWJtQ=</DigestValue>
+</Reference>
+<Reference URI="meteo%2Fimages%2Fphoto-3.jpg">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>wNdtqyhN8rFNFCz4DxGShpALF+8eK9deE1pQsw9lskk=</DigestValue>
+</Reference>
+<Reference URI="meteo%2Fimages%2Fphoto-3%402x.jpg">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>yOfto6mT3C7gy4R9YmmX4nBLK9I2iab6GdojvWpIkgM=</DigestValue>
+</Reference>
+<Reference URI="meteo%2Fimages%2Fphoto-4.jpg">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>7f3mdYNDvOAY/LNtiphmrEE/xlTxw5qFTa1Wa9jIvOA=</DigestValue>
+</Reference>
+<Reference URI="meteo%2Fimages%2Fphoto-4%402x.jpg">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>VNA9BEoFvbU3MXitXNR8DOHzdr3J0HwQQD/q+qgVz28=</DigestValue>
+</Reference>
+<Reference URI="meteo%2Fimages%2Fphoto-5.jpg">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>kzK2+HHYjZLoDMUy9D0xM/v4T0/RWFH3FlQizYpkzKk=</DigestValue>
+</Reference>
+<Reference URI="meteo%2Fimages%2Fphoto-5%402x.jpg">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>SuhLVtLpMyDZIztrJNDdz+wbJ4JdTROg2dXXn96xqP4=</DigestValue>
+</Reference>
+<Reference URI="meteo%2Fimages%2Fphoto-7.jpg">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>2rnWYuhDtCtlTnOvvf0RWqE7HQYucTWpmLJQo0YcQC0=</DigestValue>
+</Reference>
+<Reference URI="meteo%2Fimages%2Fphoto-7%402x.jpg">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>E4/FA+ggDO+YUMFopYyhO1s0WHje9yH+ZgeHKVg3QZU=</DigestValue>
+</Reference>
+<Reference URI="meteo%2Fimages%2Fphoto-8.jpg">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>EVSh8OTMcxeMzSG8uoNWHW4G0ihJ+rt1v+3arhaa/IY=</DigestValue>
+</Reference>
+<Reference URI="meteo%2Fimages%2Fphoto-8%402x.jpg">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>NGwu6MTnqqJcPWrDu3wKMnce1IhOyktxkm1RLZRzhTw=</DigestValue>
+</Reference>
+<Reference URI="meteo%2Fimages%2Fphoto-9.jpg">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>YUUerKI2Pa0IxqTXXGbAMbBYoRpTNHg1p7gIw5JkPY0=</DigestValue>
+</Reference>
+<Reference URI="meteo%2Fimages%2Fphoto-9%402x.jpg">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>mRt60rDYOGaysJlKvQHL3yw/DSYKp/r7FrpIZZNuNaU=</DigestValue>
+</Reference>
+<Reference URI="meteo%2Fimages%2Fplay-button.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Xq4QdUwe+PscACtJ88p4XdAjpY5PcQWw9EA6V4mLlgY=</DigestValue>
+</Reference>
+<Reference URI="meteo%2Fimages%2Fplay-button%402x.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>x84BKzyDYP79WikZQ4LgH45zoYaApCDWWCzhDN5YTwM=</DigestValue>
+</Reference>
+<Reference URI="meteo%2Fimages%2Fquote.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>+mFHOnMxZBKtRq6xRHYy+kcpB30Q+4erWmNL9nwUETA=</DigestValue>
+</Reference>
+<Reference URI="meteo%2Fimages%2Fquote%402x.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Zfl7bM7enGVejlSt0XkUrVsLqrnSm1lLS+aK57REDq8=</DigestValue>
+</Reference>
+<Reference URI="meteo%2Fimages%2Fthumb-1.jpg">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>dVktB3daGPkutH41Tfjbwt5UZo2ENm0HG06gAZP2vyk=</DigestValue>
+</Reference>
+<Reference URI="meteo%2Fimages%2Fthumb-1%402x.jpg">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>hQajDuDeJ263ghIWN6A3oL6SRi6xQI8r8CecGjhLAWA=</DigestValue>
+</Reference>
+<Reference URI="meteo%2Fimages%2Fthumb-2.jpg">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>6feqS68MaW7BzCDjis2oWsrbh65kVU01YhiA61DWJTI=</DigestValue>
+</Reference>
+<Reference URI="meteo%2Fimages%2Fthumb-2%402x.jpg">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>7qagUUL5Zo0yTts+RFFx1baJwSgjXTRy4iUnm+SYkIU=</DigestValue>
+</Reference>
+<Reference URI="meteo%2Fimages%2Fthumb-3.jpg">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>qEbdjYj3AQsx5rAiVvAOVr4oWL1QLopSAB9r+Bc95YA=</DigestValue>
+</Reference>
+<Reference URI="meteo%2Fimages%2Fthumb-3%402x.jpg">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>33MySexKjTSO4FbdaQYpr4XVMLG37cOqM2V6H7fE1gs=</DigestValue>
+</Reference>
+<Reference URI="meteo%2Fimages%2Fthumb-4.jpg">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>bK9Fs82SHb+TJcZx80i7eNu3TdLiIcLTU8VprtKWz2U=</DigestValue>
+</Reference>
+<Reference URI="meteo%2Fimages%2Fthumb-4%402x.jpg">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>d/02l132ktFDGx2J+ulYE/DRGKIIPEnwq1S+mof66Ts=</DigestValue>
+</Reference>
+<Reference URI="meteo%2Fimages%2Fthumb-5.jpg">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>I0r524wlYOA6cVwqi8JcOsK+EsA7+l80XpsUKZvGJus=</DigestValue>
+</Reference>
+<Reference URI="meteo%2Fimages%2Fthumb-5%402x.jpg">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>CpO+5tRHHJGNm196OT2M+IdsGEsbZhj4pJ1vZFhuJKo=</DigestValue>
+</Reference>
+<Reference URI="meteo%2Fimages%2Fthumb-6.jpg">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>07y0x4//uXykpIVAoOO3qK8Ek8IYsh8siSTlNpk8AFY=</DigestValue>
+</Reference>
+<Reference URI="meteo%2Fimages%2Fthumb-6%402x.jpg">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>15Mq0kSQfkxniCPvIn5xNayMxjZDO+vAplgTABhX4dg=</DigestValue>
+</Reference>
+<Reference URI="meteo%2Fimages%2Fthumb-7.jpg">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>qX0Q6OiNa1zWzZUdWc42hNi6WNJRIatQkcI/cqpv0lM=</DigestValue>
+</Reference>
+<Reference URI="meteo%2Fimages%2Fthumb-7%402x.jpg">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>rKdjnnfxhdb8jrRqBgabs93JY1OvUq5oOrk1404Znmo=</DigestValue>
+</Reference>
+<Reference URI="meteo%2Fimages%2Fthumb-8.jpg">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>j37mMZV/wt2CbxskFJkxgmfUKJ75qY3/30d2RQ7WY3E=</DigestValue>
+</Reference>
+<Reference URI="meteo%2Fimages%2Fthumb-8%402x.jpg">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>TbMLvTrYr7ge4TcDkXjA1pHYK/tbC0/eDNHoydmcmW0=</DigestValue>
+</Reference>
+<Reference URI="meteo%2Fimages%2Fthumb-9.jpg">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>GLnwuTpzCrKq14r68S9xQu/58Tdu0Cvx2UXjvNN5mGg=</DigestValue>
+</Reference>
+<Reference URI="meteo%2Fimages%2Fthumb-9%402x.jpg">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>prUG+6ueWnaFrBX7YURErINTxYKPTEDwTvoFRbaVjZw=</DigestValue>
+</Reference>
+<Reference URI="meteo%2Findex.html">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>z0ydaYB9t8Cs1Cv38vIVuSgBuyToZTvGMBmZ7cvgVtg=</DigestValue>
+</Reference>
+<Reference URI="meteo%2Fjs%2Fapp.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>BYiNQJ6NzVq+ndvv+B1XLqCeDvjjeMNpCB6d6ZMYIpE=</DigestValue>
+</Reference>
+<Reference URI="meteo%2Fjs%2Fie-support%2Fhtml5.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>4OrICDjBYfKefEbVT7wETRLNFkuq4TJV5WLGvjqpGAk=</DigestValue>
+</Reference>
+<Reference URI="meteo%2Fjs%2Fie-support%2Fpie.htc">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>f0YKsALxv77ZU9HNEAylFf1FP7wHbGc3ckqeSHWHXZY=</DigestValue>
+</Reference>
+<Reference URI="meteo%2Fjs%2Fie-support%2Frespond.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>M51nEGBjpXfsYYhMrm6t9rEIMvfNFCExF/GqtYuBk2Y=</DigestValue>
+</Reference>
+<Reference URI="meteo%2Fjs%2Fjquery-1.11.1.min.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>VAvG3sHdS5LqTT+5A/aeq/bZGa/Uj04xKxY8KM/w9EE=</DigestValue>
+</Reference>
+<Reference URI="meteo%2Fjs%2Fjquery-1.11.1.min.map">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>/CVzTkIw7+xxTkOxn5G8izF053MqFPrvyMJBToCGJNk=</DigestValue>
+</Reference>
+<Reference URI="meteo%2Fjs%2Fmin%2Fapp-min.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Kl7ygEA5K7nGU9Lh//XkS4elDI1q7eVFBFwtVz35gXo=</DigestValue>
+</Reference>
+<Reference URI="meteo%2Fjs%2Fmin%2Fplugins-min.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>H9lJLArG7SvCjZeL8hIlKyX6piyukcIbO6D65JANATY=</DigestValue>
+</Reference>
+<Reference URI="meteo%2Fjs%2Fplugins.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>HR3fcMdHYPQdxnEIeMOYIRlfX1upS0r/46Ja07zttYQ=</DigestValue>
+</Reference>
+<Reference URI="meteo%2Fstyle.css">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>AIzK/ntu9kQfwEP+LS9TTRm7kNSGOvDpLDkQAvVdcbw=</DigestValue>
+</Reference>
+<Reference URI="setting.html">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>kkjBGHRZo1AM0lZq6xFx0yx/Q8AfgEb3bTThybV3qWU=</DigestValue>
+</Reference>
+<Reference URI="style.css">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>05PiDZ+4DY2R18QghGoPSwVic1tpguuazLofLOmx5vw=</DigestValue>
+</Reference>
+<Reference URI="#prop">
+<Transforms>
+<Transform Algorithm="http://www.w3.org/2006/12/xml-c14n11"></Transform>
+</Transforms>
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>u/jU3U4Zm5ihTMSjKGlGYbWzDfRkGphPPHx3gJIYEJ4=</DigestValue>
+</Reference>
+</SignedInfo>
+<SignatureValue>
+mmqlz106+JkFaN0eyuQg/TfV75Z4PcOWiSSf0jdB2cPgsnRmyKtuxlgkulSOVCTO6xfzsXhZJidM
+mauGM0xZWbTiH6Dc6fv8j5y6ry2MMH7919qong7MAOP1Ghb0HHbsMQget+j4kyb+IlDfKjAsI4v5
+qqG+hIdXO4VeuNP/mgI=
+</SignatureValue>
+<KeyInfo>
+<X509Data>
+<X509Certificate>
+MIICmzCCAgQCCQDXI7WLdVZwiTANBgkqhkiG9w0BAQUFADCBjzELMAkGA1UEBhMCS1IxDjAMBgNV
+BAgMBVN1d29uMQ4wDAYDVQQHDAVTdXdvbjEWMBQGA1UECgwNVGl6ZW4gVGVzdCBDQTEiMCAGA1UE
+CwwZVGl6ZW4gRGlzdHJpYnV0b3IgVGVzdCBDQTEkMCIGA1UEAwwbVGl6ZW4gUHVibGljIERpc3Ry
+aWJ1dG9yIENBMB4XDTEyMTAyOTEzMDMwNFoXDTIyMTAyNzEzMDMwNFowgZMxCzAJBgNVBAYTAktS
+MQ4wDAYDVQQIDAVTdXdvbjEOMAwGA1UEBwwFU3V3b24xFjAUBgNVBAoMDVRpemVuIFRlc3QgQ0Ex
+IjAgBgNVBAsMGVRpemVuIERpc3RyaWJ1dG9yIFRlc3QgQ0ExKDAmBgNVBAMMH1RpemVuIFB1Ymxp
+YyBEaXN0cmlidXRvciBTaWduZXIwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBALtMvlc5hENK
+90ZdA+y66+Sy0enD1gpZDBh5T9RP0oRsptJv5jjNTseQbQi0SZOdOXb6J7iQdlBCtR343RpIEz8H
+mrBy7mSY7mgwoU4EPpp4CTSUeAuKcmvrNOngTp5Hv7Ngf02TTHOLK3hZLpGayaDviyNZB5PdqQdB
+hokKjzAzAgMBAAEwDQYJKoZIhvcNAQEFBQADgYEAvGp1gxxAIlFfhJH1efjb9BJK/rtRkbYn9+Ez
+GEbEULg1svsgnyWisFimI3uFvgI/swzr1eKVY3Sc8MQ3+Fdy3EkbDZ2+WAubhcEkorTWjzWz2fL1
+vKaYjeIsuEX6TVRUugHWudPzcEuQRLQf8ibZWjbQdBmpeQYBMg5x+xKLCJc=
+</X509Certificate>
+<X509Certificate>
+MIICtDCCAh2gAwIBAgIJAMDbehElPNKvMA0GCSqGSIb3DQEBBQUAMIGVMQswCQYDVQQGEwJLUjEO
+MAwGA1UECAwFU3V3b24xDjAMBgNVBAcMBVN1d29uMRYwFAYDVQQKDA1UaXplbiBUZXN0IENBMSMw
+IQYDVQQLDBpUVGl6ZW4gRGlzdHJpYnV0b3IgVGVzdCBDQTEpMCcGA1UEAwwgVGl6ZW4gUHVibGlj
+IERpc3RyaWJ1dG9yIFJvb3QgQ0EwHhcNMTIxMDI5MTMwMjUwWhcNMjIxMDI3MTMwMjUwWjCBjzEL
+MAkGA1UEBhMCS1IxDjAMBgNVBAgMBVN1d29uMQ4wDAYDVQQHDAVTdXdvbjEWMBQGA1UECgwNVGl6
+ZW4gVGVzdCBDQTEiMCAGA1UECwwZVGl6ZW4gRGlzdHJpYnV0b3IgVGVzdCBDQTEkMCIGA1UEAwwb
+VGl6ZW4gUHVibGljIERpc3RyaWJ1dG9yIENBMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDe
+OTS/3nXvkDEmsFCJIvRlQ3RKDcxdWJJp625pFqHdmoJBdV+x6jl1raGK2Y1sp2Gdvpjc/z92yzAp
+bE/UVLPh/tRNZPeGhzU4ejDDm7kzdr2f7Ia0U98K+OoY12ucwg7TYNItj9is7Cj4blGfuMDzd2ah
+2AgnCGlwNwV/pv+uVQIDAQABoxAwDjAMBgNVHRMEBTADAQH/MA0GCSqGSIb3DQEBBQUAA4GBACqJ
+KO33YdoGudwanZIxMdXuxnnD9R6u72ltKk1S4zPfMJJv482CRGCI4FK6djhlsI4i0Lt1SVIJEed+
+yc3qckGm19dW+4xdlkekon7pViEBWuyHw8OWv3RXtTum1+PGHjBJ2eYY4ZKIpz73U/1NC16sTB/0
+VhfnkHwPltmrpYVe
+</X509Certificate>
+</X509Data>
+</KeyInfo>
+<Object Id="prop"><SignatureProperties xmlns:dsp="http://www.w3.org/2009/xmldsig-properties"><SignatureProperty Id="profile" Target="#DistributorSignature"><dsp:Profile URI="http://www.w3.org/ns/widgets-digsig#profile"></dsp:Profile></SignatureProperty><SignatureProperty Id="role" Target="#DistributorSignature"><dsp:Role URI="http://www.w3.org/ns/widgets-digsig#role-distributor"></dsp:Role></SignatureProperty><SignatureProperty Id="identifier" Target="#DistributorSignature"><dsp:Identifier></dsp:Identifier></SignatureProperty></SignatureProperties></Object>
+</Signature>
